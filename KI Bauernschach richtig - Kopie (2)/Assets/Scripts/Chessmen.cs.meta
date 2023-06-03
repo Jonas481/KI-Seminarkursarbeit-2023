@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc1c14e7f6172d74a8a852ae4a54b6b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - movePlate: {instanceID: 0}
+  - Schwarzer_Bauer: {fileID: 21300000, guid: 8cfd70860af7498479abe1c33cb7725d, type: 3}
+  - "Wei\xDFer_Bauer": {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

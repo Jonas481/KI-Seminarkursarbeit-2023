@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovePlate
+  - GewinnerText
+  - RestartText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hintergrund
+  - Water
+  - UI
+  - Spielfiguren
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hintergrund
+    uniqueID: 2241017779
+    locked: 0
+  - name: Spielfiguren
+    uniqueID: 2546573261
+    locked: 0
